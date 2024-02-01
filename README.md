@@ -6,7 +6,7 @@ HMS is a website that connects doctors, patients, and ambulance providers. Patie
 
 ## Visit Online
 
-This website is hosted at [https://medbuddy.onrender.com/](https://medbuddy.onrender.com/)
+This website is hosted at [https://health-management-system-alpha.vercel.app]
 
 ## Getting Started
 
